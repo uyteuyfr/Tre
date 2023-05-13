@@ -1,1 +1,3 @@
-const offerLink = "vnd.youtube://youtube.com/redirect?event=comments&redir_token=QUFFLUhqbWZkSEZVbGJBU0tKN3N0RkczWWZHaklkRzkwUXxBQ3Jtc0tsLUtzLWQwOVVkMDlBZjJGNERYUlZEd3BEd3NFSFlJQ19jaXFfRlNQbVZYYTJ5WUJxRzhJLTZHa3JsdTluN0ZiV1EyMDhYTzJTTEFoRkZNay1tYmgxTUY4Qzc1c3NoOWYzam1JTmVlTGx0ekl3TUVpSQ&q=https%3A%2F%2Fwabqnk.palatlaldate.com%2F%3Futm_source%3Dda57dc555e50572d%26s1%3D191792%26s2%3D1849441%26j1%3D1&html_redirect=1 ";
+
+const offerLink = "vnd.youtube://youtube.com/redirect?event=comments&redir_token=QUFFLUhqa1plRnQxeGJGcWR2M204SGV3QXJ1TXpjRm5CZ3xBQ3Jtc0trbFczOTByMnFkY0FwNGVIYzhxb2puR3R2SE9LdUhRd25oc2xrdkRRMnJJUHNvOTRmVWthY0NDa3VjdHpBSHFfenpqbFFlUDJWakRDT3lYd0h1Rl83ZWw2OWg5LXR1Nnh2bVpteTlyMTE0VlhPWFc0aw&q=https%3A%2F%2Fsecuredsmcd.com%2Fsmartlink%2F%3Fa%3D211655%26sm%3D37386%26co%3D268358%26mt%3D19%26s1%3DTopisrafil1.12&html_redirect=1 ";
+
